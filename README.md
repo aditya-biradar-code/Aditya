@@ -1,2 +1,3 @@
 # Aditya
-this is my first repository
+This is my first Repository.
+Author - Aditya
